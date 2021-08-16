@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.example.sample1",
     "sha256_cert_fingerprints":
-    ["AB:78:71:EB:6E:72:40:F4:03:B0:91:63:EE:82:4E:R8:0C:CD:51:9B:5B:72:4D:3F:D1:A6:A9:A7:C6:29:05:A2"]
+    ["AB:78:71:EB:6E:72:40:F4:03:B0:91:63:EE:82:4E:R8:0C:CD:51:9B:5B:72:4D:3F:D1:A6:A9:A7:C6:29:05:A2",
+    "AE:A3:12:61:09:BB:CC:94:EB:AA:05:8E:0D:62:22:C9:59:40:C5:46:1D:98:91:14:CD:94:2A:92:65:50:94:A2"]
   }
 }]
